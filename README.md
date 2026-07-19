@@ -151,9 +151,9 @@
 # 🌐 Connect With Me
 
 - 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chandra-raju-k-8bb7a8290/)
 - 💻 GitHub: https://github.com/YOUR_USERNAME
-- 🏆 LeetCode: https://leetcode.com/YOUR_USERNAME
+- 🏆 LeetCode: [https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/Chandra_raju/)
 
 ---
 
