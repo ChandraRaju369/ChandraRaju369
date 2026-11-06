@@ -12,7 +12,7 @@
 - 🏫 IIITDM Jabalpur (2023 – 2027)
 - 💻 Backend Development Enthusiast
 - 🌱 Currently exploring Distributed Systems, System Design, and Cloud Technologies
-- 🧩 Solved **700+ Competitive Programming Problems**
+- 🧩 Solved **1000+ Competitive Programming Problems**
 - ⚡ Love solving algorithmic challenges and building real-world applications
 
 ---
@@ -90,14 +90,14 @@
 
 # 🏆 Competitive Programming
 
-- ✅ Solved **700+** problems across:
+- ✅ Solved **1000+** problems across:
   - LeetCode
   - Codeforces
   - CodeChef
   - CSES
   - SPOJ
 
-- ⭐ LeetCode Contest Rating: **1767**
+- ⭐ LeetCode Contest Rating: **1787**
 - 📈 Top **9.24%** on LeetCode
 
 ---
